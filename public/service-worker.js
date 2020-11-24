@@ -6,7 +6,8 @@ const FILES_TO_CACHE = [
   "/index.js",
   "/service-worker.js",
   "/manifest.webmanifest",
-  "/style.css"
+  "/styles.css",
+  "/db.js"
 ];
 
 // install
